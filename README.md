@@ -12,7 +12,7 @@ $ install derp
 $ install MissingH
 $ cabal configure
 $ cabal build
-```bash
+```
 
 Then run a python script with the command (example name
 "hello_world.py"): 
