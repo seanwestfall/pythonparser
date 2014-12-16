@@ -22,7 +22,7 @@ $ cat hello_word.py | ./dist/build/pyli/pyli
 
 # LICENSE
 
-Distributed under MIT, which basically means that if you should use this code for anything, you just have to keep a note saying we wrote the code. That said, God help you should you actually decide to use this code.
+Distributed under MIT, originally written by Alex Clemmer with some extension written by me.
 
 
 ## MIT License
